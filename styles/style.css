@@ -58,9 +58,9 @@ li {
   font-weight: 500;
   cursor: pointer;
   /* customize */
-  background-color: #1c2042;
+  background-color: #DF2257;
   color: white;
-  border: 2px solid #1c2042;
+  border: 2px solid #DF2257;
 }
 
 /* project css */
@@ -99,7 +99,7 @@ body {
   padding: 0.75rem;
   border-radius: 0.5rem;
   border: 2px solid var(--clr-text);
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
 }
